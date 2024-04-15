@@ -305,6 +305,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: bb2d7727d9994554c90fa4cf6301dd15,
         type: 3}
+    - target: {fileID: 1349004924908205725, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.38679236
+      objectReference: {fileID: 0}
+    - target: {fileID: 1349004924908205725, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1349004924908205725, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.5774037
+      objectReference: {fileID: 0}
     - target: {fileID: 2070867124022919027, guid: 398ee1c84048d68479a4ca31600e05d2,
         type: 3}
       propertyPath: m_Type
@@ -316,6 +331,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: bb2d7727d9994554c90fa4cf6301dd15,
         type: 3}
+    - target: {fileID: 2070867124022919027, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.38679236
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070867124022919027, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2070867124022919027, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.5774037
+      objectReference: {fileID: 0}
     - target: {fileID: 2204464523640232130, guid: 398ee1c84048d68479a4ca31600e05d2,
         type: 3}
       propertyPath: m_Name
@@ -337,6 +367,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: bb2d7727d9994554c90fa4cf6301dd15,
         type: 3}
+    - target: {fileID: 2530977214245276068, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.38679236
+      objectReference: {fileID: 0}
+    - target: {fileID: 2530977214245276068, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2530977214245276068, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.5774037
+      objectReference: {fileID: 0}
     - target: {fileID: 3118131162248045488, guid: 398ee1c84048d68479a4ca31600e05d2,
         type: 3}
       propertyPath: m_text
@@ -439,6 +484,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: bb2d7727d9994554c90fa4cf6301dd15,
         type: 3}
+    - target: {fileID: 6677578565661898919, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.38679236
+      objectReference: {fileID: 0}
+    - target: {fileID: 6677578565661898919, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6677578565661898919, guid: 398ee1c84048d68479a4ca31600e05d2,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.5774037
+      objectReference: {fileID: 0}
     - target: {fileID: 7838268719009670937, guid: 398ee1c84048d68479a4ca31600e05d2,
         type: 3}
       propertyPath: m_text
@@ -880,7 +940,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.48113197, g: 0.5583924, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1140,7 +1200,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.91194963, g: 0.6567184, b: 0.6567184, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1236,7 +1296,8 @@ MonoBehaviour:
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"canvasPopUp","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"buttonAudio","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"audioSource","value":null,"typeHandle":{"Identification":"UnityEngine.AudioSource,
-      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"isPlaying","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 513844357}
     - {fileID: 921514666}
@@ -1518,7 +1579,7 @@ PrefabInstance:
     - target: {fileID: 5009162044786660859, guid: 2b162393015851a4a80fef6e12f2b098,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5791437403728719581, guid: 2b162393015851a4a80fef6e12f2b098,
         type: 3}
